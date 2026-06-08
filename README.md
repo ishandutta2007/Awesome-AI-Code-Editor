@@ -151,3 +151,6 @@ Let's make AI-assisted coding more powerful, private, and accessible to everyone
 	</a>
 </div>
 
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for AI agents. Verify agent identity before API access or x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
