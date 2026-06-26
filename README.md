@@ -49,6 +49,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Windsurf](https://windsurf.com/)** | High-velocity AI IDE by Codeium. | Flow state; acquired by Google & Cognition (2025). | Pro ($15/mo), Max ($200/mo) | Light daily/weekly quota for Cascade/Chat, unlimited autocompletions | **$2.4B** (Exit Value) |
 | **[Magic](https://magic.dev/)** | LTM-1 powered IDE with massive context. | 100M+ token context window for large projects. | Pricing not yet public (Waitlist) | N/A (Closed Beta) | **$1.5B+** (Magic.dev) |
 | **[Cosine](https://cosine.sh/)** | Deep codebase indexing for high-fidelity context. | Selected for UK Sovereign AI programme. | Hobby ($20/mo), Professional ($99/user/mo) | 80 tasks/mo, up to 100 projects | **$31.8M** (Cosine) |
+| **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[PearAI](https://pear.ai/)** | Open-core AI editor for modern workflows. | **Out of Business (June 2026).** | N/A | N/A | **$2.5M** (YC S24) |
 | **[Void IDE](https://void.dev/)** | Modern AI-native editor focused on privacy. | **Development Paused.** | N/A (Free/Open Source) | N/A (Self-hosted) | **$1M** (YC S24) |
 | **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
@@ -63,6 +64,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social&color=white)](https://github.com/google-gemini/gemini-cli/stargazers) 🤖  
   Interactive CLI agent for autonomous software engineering with massive context integration.
+- **[Command Code](https://github.com/CommandCodeAI/command-code)** [![GitHub stars](https://img.shields.io/github/stars/CommandCodeAI/command-code?style=social&color=white)](https://github.com/CommandCodeAI/command-code/stargazers) 💻  
+  CLI-native AI coding agent that learns developer taste with the taste-1 neuro-symbolic model.
 - **[Zed](https://github.com/zed-industries/zed)** [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers) ⚡  
   High-performance Rust-based editor with native AI capabilities. Blazing fast.
 - **[OpenHands](https://github.com/OpenHands/OpenHands)** [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers) 👐  
