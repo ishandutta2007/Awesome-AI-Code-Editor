@@ -182,6 +182,15 @@ Contributions make the community awesome! Please follow these steps:
 
 ---
 
+## 🔍 See Also
+
+- **[AI CLI Coding Agents](https://github.com/ishandutta2007/Awesome-CLI-Coding-Agents)**
+- **[AI IDE](https://github.com/ishandutta2007/Awesome-AI-IDE)**
+- **[AI IDE Extensions](https://github.com/ishandutta2007/Awesome-AI-IDE-Extensions)**
+- **[AI Harness](https://github.com/ishandutta2007/Awesome-Multi-Agent-AI-Harnesses)**
+
+---
+
 ## 📈 Star History
 
 <div align="center">
