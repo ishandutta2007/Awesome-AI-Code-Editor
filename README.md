@@ -85,7 +85,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Warp](https://github.com/warpdotdev/Warp)** | Modern terminal with built-in AI agent mode. | Understands tasks, runs commands, edits files, and orchestrates workflows. | Free for individuals, Pro ($15/mo), Team ($22/mo) | 100 AI requests/mo | **$100M** (Warp) |
 | **[Droid](https://github.com/Factory-AI/factory)** | Factory's multi-model CLI coding agent. | Specialized droids for different tasks, headless CI mode. | Custom Enterprise plans | No Free Tier | **$60M** (Factory) |
 | **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
-| **[Freebuff](https://freebuff.com)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
+| **[Freebuff](https://freebuff.com/?ref=ref-3b7a0fcd-714d-4877-a2b4-cf42839c5fc6)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
 
 ---
@@ -209,6 +209,8 @@ Contributions make the community awesome! Please follow these steps:
 **[⬆ Back to Top](#-awesome-ai-code-editor)**
 
 Made with ❤️ for the AI Developer Community.
+
+> This page may contain affiliate links
 
 </div>
 
