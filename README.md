@@ -146,6 +146,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   First open-source AI editor that tracks changes across your entire stack.
 - **[Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)** [![GitHub stars](https://img.shields.io/github/stars/AbanteAI/archive-old-cli-mentat?style=social&color=white)](https://github.com/AbanteAI/archive-old-cli-mentat/stargazers) 🧠  
   AI coding assistant that lives in your terminal and understands your project context.
+- **[Sillage](https://github.com/MarlBurroW/sillage)** [![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/sillage?style=social&color=white)](https://github.com/MarlBurroW/sillage/stargazers) 🌐  
+  Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs; persistent sessions, IDE panel, full-text search, installable PWA. Single Docker container. MIT.
 
 ### 🔬 Experimental & Specialized OS Tools
 
