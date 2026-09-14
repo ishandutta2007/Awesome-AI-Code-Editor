@@ -149,6 +149,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 - **[Sillage](https://github.com/MarlBurroW/sillage)** [![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/sillage?style=social&color=white)](https://github.com/MarlBurroW/sillage/stargazers) 🌐  
   Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs; persistent sessions, IDE panel, full-text search, installable PWA. Single Docker container. MIT.
 
+- **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers) 🎼  
+  Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a risk-based merge queue verifies and lands every change with receipts stored in the repository. MIT, on npm as @yylo/cli.
 ### 🔬 Experimental & Specialized OS Tools
 
 - **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🔬  
