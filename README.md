@@ -151,6 +151,9 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 - **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers) 🎼  
   Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a risk-based merge queue verifies and lands every change with receipts stored in the repository. MIT, on npm as @yylo/cli.
+- **[Orbi](https://github.com/orbi-build/orbi)** [![GitHub stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social&color=white)](https://github.com/orbi-build/orbi/stargazers) 🏷️  
+  Self-hosted autonomous coding agent built on Pi: label a GitHub Issue `ai-ready` and it writes the code, opens a PR, has an independent review session check it, merges, and tags a release. AGPL-3.0, on PyPI as orbi-cli.
+
 ### 🔬 Experimental & Specialized OS Tools
 
 - **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🔬  
