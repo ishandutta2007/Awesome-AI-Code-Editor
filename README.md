@@ -148,11 +148,13 @@ The AI coding market has matured into a landscape dominated by tech giants and h
   AI coding assistant that lives in your terminal and understands your project context.
 - **[Sillage](https://github.com/MarlBurroW/sillage)** [![GitHub stars](https://img.shields.io/github/stars/MarlBurroW/sillage?style=social&color=white)](https://github.com/MarlBurroW/sillage/stargazers) 🌐  
   Self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs; persistent sessions, IDE panel, full-text search, installable PWA. Single Docker container. MIT.
-
 - **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers) 🎼  
   Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a risk-based merge queue verifies and lands every change with receipts stored in the repository. MIT, on npm as @yylo/cli.
+- **[Orbi](https://github.com/orbi-build/orbi)** [![GitHub stars](https://img.shields.io/github/stars/orbi-build/orbi?style=social&color=white)](https://github.com/orbi-build/orbi/stargazers) 🏷️  
+  Self-hosted autonomous coding agent built on Pi: label a GitHub Issue `ai-ready` and it writes the code, opens a PR, has an independent review session check it, merges, and tags a release. AGPL-3.0, on PyPI as orbi-cli.
 - **[Volt](https://github.com/LeulAria/volt)** [![GitHub stars](https://img.shields.io/github/stars/LeulAria/volt?style=social&color=white)](https://github.com/LeulAria/volt/stargazers) ⚡  
   Open-source agentic workspace on the VS Code core: runs Claude Code, Codex, and other ACP agents or local Ollama models, with plan mode, subagents, Git checkpoints, and hunk-level review. MIT.
+
 ### 🔬 Experimental & Specialized OS Tools
 
 - **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🔬  
