@@ -151,6 +151,8 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 
 - **[YYLO](https://github.com/yylo-dev/yylo)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo?style=social&color=white)](https://github.com/yylo-dev/yylo/stargazers) 🎼  
   Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree and a risk-based merge queue verifies and lands every change with receipts stored in the repository. MIT, on npm as @yylo/cli.
+- **[Volt](https://github.com/LeulAria/volt)** [![GitHub stars](https://img.shields.io/github/stars/LeulAria/volt?style=social&color=white)](https://github.com/LeulAria/volt/stargazers) ⚡  
+  Open-source agentic workspace on the VS Code core: runs Claude Code, Codex, and other ACP agents or local Ollama models, with plan mode, subagents, Git checkpoints, and hunk-level review. MIT.
 ### 🔬 Experimental & Specialized OS Tools
 
 - **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🔬  
