@@ -87,6 +87,7 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 | **[Command Code](https://commandcode.ai)** | CLI-native AI coding agent that learns developer "taste" with the `taste-1` neuro-symbolic model. | Terminal-centric, learning style patterns, respects developer workflows. | Go ($1/mo), Pro ($15/mo), Max ($100-$200/mo) | Free tier for solo developers (or $10 credits on Go plan) | **$5M** (Seed) |
 | **[Freebuff](https://freebuff.com/?ref=ref-3b7a0fcd-714d-4877-a2b4-cf42839c5fc6)** | Open-source, terminal-based AI coding assistant. | Ad-supported alternative to Claude Code; runs locally. | Free (Ad-supported) | Unlimited (displays text-based ads) | **$500K+** (YC F24) |
 | **[OpenCode](https://opencode.ai)** | Open-source, terminal-first AI coding agent. | Provider-agnostic CLI/TUI agent with MCP & LSP support. | OpenCode Go ($10/mo) or BYO API Key | Unlimited (with BYO key) / Basic fallback models | **Undisclosed** |
+| **[Imagera Code](https://imagera.ai/code)** | Terminal AI coding agent built on OpenCode (MIT) that reads and edits your project and runs commands and tests. | Claude, GPT, Gemini and hundreds more models on one plan; limits reset every 3 hours plus a weekly limit; headless mode, ACP and MCP. | Pro ($20/mo), Max 5x ($100/mo), Max 20x ($200/mo), Max 50x ($500/mo) | No Free Tier | **Undisclosed** |
 
 ---
 
