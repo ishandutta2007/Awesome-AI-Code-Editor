@@ -155,6 +155,9 @@ The AI coding market has matured into a landscape dominated by tech giants and h
 - **[Volt](https://github.com/LeulAria/volt)** [![GitHub stars](https://img.shields.io/github/stars/LeulAria/volt?style=social&color=white)](https://github.com/LeulAria/volt/stargazers) ⚡  
   Open-source agentic workspace on the VS Code core: runs Claude Code, Codex, and other ACP agents or local Ollama models, with plan mode, subagents, Git checkpoints, and hunk-level review. MIT.
 
+- **[Althar](https://github.com/AltharIDE/althar)** [![GitHub stars](https://img.shields.io/github/stars/AltharIDE/althar?style=social&color=white)](https://github.com/AltharIDE/althar/stargazers) 🛠️<br>
+  Desktop IDE that turns requests into tasks, assigns coding agents, and reviews their work with another model using existing agent sign-ins. Apache-2.0; macOS, Windows, and Linux.
+
 ### 🔬 Experimental & Specialized OS Tools
 
 - **[GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)** [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers) 🔬  
